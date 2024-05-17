@@ -25,7 +25,7 @@ function Card( props ){
       </div>
       
       <CardBody $top={ props.top }>
-          <TextLimit text={ props.text} limit={120} isTitle={true} />
+          <TextLimit text={ props.title} limit={120} isTitle={true} />
           <TextLimit text={ props.text} limit={120} />
 
         {
