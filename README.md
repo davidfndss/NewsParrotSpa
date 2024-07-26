@@ -1,6 +1,6 @@
 <h1 align="center">SPA: NewsParrot :parrot:</h1>
 
-![Group 3](https://github.com/user-attachments/assets/7e5e0e70-4868-4326-82cb-026450d09f0d)
+![NewsParrotSPA](https://github.com/user-attachments/assets/7e5e0e70-4868-4326-82cb-026450d09f0d)
 
 NewsParrot is an online news portal service, the api is actually hosted on Render ( links Bellow )
 
